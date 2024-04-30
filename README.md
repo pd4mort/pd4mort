@@ -24,7 +24,7 @@
     <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" width="48" height="48"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express" width="48" height="48"/> </a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/> </a>
-    <a href="https://spring.io/projects/spring-framework" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="48" height="48"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="48" height="48"/> </a>
     <a href="https://ionicframework.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="48" height="48"/> </a>
 </p>
 🛠️ Technologies and Platforms:
