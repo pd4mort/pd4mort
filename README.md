@@ -11,13 +11,14 @@
 <br>
 
   
-  ## 🔥 Languages:
+  ##  👉  Languages:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48" style="margin-right: 20px;"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin-right: 20px;"/> </a> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="48" height="48"/> </a> 
 </p>
+
 
 
   
