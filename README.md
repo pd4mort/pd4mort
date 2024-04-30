@@ -11,11 +11,6 @@
 <br>
 
 
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pd4mort&theme=algolia" /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -129,6 +124,10 @@
 
 <br/>
 
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pd4mort&theme=algolia" /></p>
+
 ## 📊 Github Stats (Expand to View) 
 
 
@@ -149,14 +148,15 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/pd4mort"><img alt="Pablo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pd4mort&custom_title=pd4mort%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
+
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -170,8 +170,8 @@
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+* Credit: [pd4mort](https://github.com/pd4mort)
+* Last Edited on: 30/04/2024
 
 
 
