@@ -42,6 +42,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" alt="MySQL" width="64" height="64"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/azure-1.png" alt="Azure" width="64" height="64"/> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/google-cloud-platform.png" alt="Google Cloud" width="64" height="64"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="64" height="64"/> </a>
 </p>
 
 <br>
