@@ -50,4 +50,17 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pd4mort&theme=
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pd4mort&theme=algolia" alt="Streak Stats"/>
+</p>
+
+## 🙋‍♂️ Let's Connect
+
+<p align="center">
+  <a href="mailto:pablodamasor@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/pd4mort" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/pablo-damas-dev-project" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+<hr/>
+
+<small>⚡ Credit: [pd4mort](https://github.com/pd4mort) | Last Edited on: 30/04/2024</small>
