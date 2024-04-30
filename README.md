@@ -6,6 +6,9 @@
 <h3 align="center">Junior Software Developer from Spain</h3>
 
 <h4 align="center">I am a junior making my way in this new world, I am creative and with a different vision from the rest. I like to immerse myself in unknown projects and learn new technologies and methods.</h4>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
+</div>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pd4mort&label=Profile%20views&color=0e75b6&style=plastic" alt="pd4mort" /> </p>
 
