@@ -7,7 +7,7 @@
 
 <h4 align="center">I am a junior making my way in this new world, I am creative and with a different vision from the rest. I like to immerse myself in unknown projects and learn new technologies and methods.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pd4mort&label=Profile%20views&color=0e75b6&style=plastic" alt="pd4mort" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
